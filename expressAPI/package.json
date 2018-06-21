@@ -1,0 +1,25 @@
+{
+  "name": "expressapi",
+  "version": "1.0.0",
+  "description": "Submission for the Express API lab",
+  "main": "chirpstore.js",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "jquery": "^3.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lbm54/express_labs.git"
+  },
+  "author": "Lee Martin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lbm54/express_labs/issues"
+  },
+  "homepage": "https://github.com/lbm54/express_labs#readme"
+}
